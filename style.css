@@ -39,7 +39,7 @@ ul {
     margin: 0;
     padding: 0;
     display: flex;
-    gap: 10px;
+    gap: 30px;
 
 }
    
@@ -96,5 +96,19 @@ a {
 /* Some Random Information */
 
 .bottom-title {
-    font-size: ;
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+    padding: 40px;
+}
+
+.pic {
+    width: 200px;
+}
+
+.random-info-container {
+    justify-content: center;
+    display: flex;
+    gap: 5px;
+    padding: 30px;
 }
