@@ -126,3 +126,41 @@ a {
     text-align: center;
     color: #444c58;
 }
+
+/* Thor Quote */
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.thor-container {
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+    max-width: 850px;
+    gap: 10px;
+
+}
+
+.thor {
+    text-align: left;
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+
+}
+
+.author {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+}
+
+/* CTA */
+
+.CTA {
+    width: 
+}
