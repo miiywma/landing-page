@@ -161,6 +161,49 @@ a {
 
 /* CTA */
 
+.CTA-container {
+    display: flex;
+    justify-content: center;
+}
+
 .CTA {
-    width: 
+    margin: 140px;
+    padding: 50px 20px;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    width: 1000px;
+    background-color: #3882F6;
+    border: none;
+    border-radius: 7px;
+}
+
+
+.CTA-text {
+    color: white;
+
+}
+
+.CTA-title {
+    font-weight: bold; 
+    font-size: 28px;
+}
+
+.sign-up-2 {
+    padding: 0 50px;
+    border: solid 3px white;
+    border-radius: 7px;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    line-height: 1;
+
+}
+
+/* COPYRIGHT */
+
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    
 }
