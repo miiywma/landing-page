@@ -91,6 +91,7 @@ a {
     border: none;
     border-radius: 7px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 /* Some Random Information */
@@ -197,6 +198,7 @@ a {
     color: white;
     font-weight: bold;
     line-height: 1;
+    cursor: pointer;  
 
 }
 
