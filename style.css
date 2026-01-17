@@ -99,7 +99,7 @@ a {
     font-size: 32px;
     font-weight: 900;
     text-align: center;
-    padding: 40px;
+    padding-top: 40px;
 }
 
 .pic {
@@ -109,6 +109,20 @@ a {
 .random-info-container {
     justify-content: center;
     display: flex;
-    gap: 5px;
+    gap: 30px;
     padding: 30px;
+    padding-bottom: 80px;
+}
+
+.random-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.bottom-text {
+    width: 200px;
+    text-align: center;
+    color: #444c58;
 }
